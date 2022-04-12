@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="preview_image_jpg">Preview_image.jpg</string>
+    <string name="_270_3kb">270.3KB</string>
+    <string name="_10_9mb">10.9MB</string>
+    <string name="brief_zip">Brief.zip</string>
+    <string name="today">Today</string>
+    <string name="_13_05_p_m">13:05 p.m.</string>
+</resources>
